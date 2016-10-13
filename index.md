@@ -1,9 +1,7 @@
 ---
 layout: default
-title:  Welcome
+title:  welcome
 ---
-
-# {{ page.title }}
 
 
 **Proseminar, Winter 2016: Introduction to International Relations: Behavioral Approaches to Terrorism**
